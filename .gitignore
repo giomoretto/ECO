@@ -1,0 +1,4 @@
+04_external/
+!04_external/ReadMe.txt
+06_build/
+*.asv
