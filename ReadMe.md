@@ -44,3 +44,4 @@ model presented can be used for compilation on embedded systems
 
 
 %% Cite the code
+[![DOI](https://zenodo.org/badge/639391121.svg)](https://zenodo.org/badge/latestdoi/639391121)
