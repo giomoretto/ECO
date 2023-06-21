@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Moretto"
+  given-names: "Giordano"
+  orcid: "https://orcid.org/0000-0002-4768-904X"
+- family-names: "Schnell"
+  given-names: "Nicolas"
+title: "Model-based Calibration of Multiple Injections for a CI Engine"
+version: 0.1.0
+doi: 10.5281/zenodo.8059934
+date-released: 2023-06-21
+url: "https://doi.org/10.5281/zenodo.8059934"
